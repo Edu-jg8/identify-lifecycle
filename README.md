@@ -1,4 +1,4 @@
-# Proyecto 01: Identity Lifecycle Automation
+# Identity Lifecycle Automation
 
 ## ¿Qué problema resuelve?
 El alta y baja manual de empleados en sistemas informáticos genera cuellos de botella, errores humanos de configuración y falta de trazabilidad. Este proyecto automatiza el ciclo de vida inicial de las identidades (Onboarding), garantizando que la creación de usuarios, la asignación de permisos y el registro de auditoría se realicen de forma estructurada, rápida e idempotente.
